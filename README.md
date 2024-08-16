@@ -1,0 +1,3 @@
+Hello everyone, 
+
+Welcome to my personal webpage. My name is Phillip Bishop and I'm an aspiring full stack developer. The purpose of this website is for you to get to know me all the while I highlight my skills to you. How fun is that? Anyways, enjoy your stay and if you have any questions about me or how the page was built feel free to email me at any time. I'll try to respond as soon as possible.
